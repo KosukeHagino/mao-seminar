@@ -1,3 +1,4 @@
+あああああ
 # 真央ゼミWebサイト
 C&R大学 真央ゼミのWebサイト用リポジトリです。
 GitHub Pages機能を使って公開されたページは[こちら](https://elmas3.github.io/mao-seminar/)から閲覧できます。
